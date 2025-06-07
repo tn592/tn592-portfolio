@@ -1,0 +1,11 @@
+.navbar-brand{
+	margin-left: 200px;
+}
+
+#navbarTogglerDemo01{
+	margin-right: 150px;
+}
+
+::placeholder{
+  color: gray !important;
+}
